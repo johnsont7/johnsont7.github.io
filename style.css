@@ -1,11 +1,10 @@
 .body {
-    background-color: #ffffff;
-    text-color: #000000;
+    background-color: #101010;
+    text-color: #ffffff;
 
     .project {
         background-color: #ffffff;
-        padding: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
         border-radius: 5px;
     }
 }
