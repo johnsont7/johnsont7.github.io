@@ -1,9 +1,9 @@
 .body {
-    background-color: #1e1e1e;
-    text-color: #ffffff;
+    background-color: #ffffff;
+    text-color: #000000;
 
     .project {
-        background-color: #1e1e1e;
+        background-color: #ffffff;
         padding: 20px;
         margin-bottom: 20px;
         border-radius: 5px;
